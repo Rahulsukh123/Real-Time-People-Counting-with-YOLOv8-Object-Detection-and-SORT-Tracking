@@ -1,0 +1,2 @@
+# Real-Time-People-Counting-with-YOLOv8-Object-Detection-and-SORT-Tracking
+This Python script implements a real-time people counting system using advanced computer vision techniques. It leverages the YOLOv8 large model (yolov8l.pt) for object detection and the SORT (Simple Online and Realtime Tracking) algorithm for multi-object tracking, enabling accurate counting of individuals crossing predefined boundaries in a video 
